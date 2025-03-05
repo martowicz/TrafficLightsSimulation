@@ -23,7 +23,7 @@ To activate Spring Boot Rest API:
 This will set up Rest API on port 8080 \
 To start React developement server:
 ```
-cd frontend
+cd reactapp
 npm start
 ```
 Now Traffic Lights Simulator is available at:
