@@ -49,7 +49,6 @@ public class Junction {
             for (Vehicle v : queue) {
                 System.out.println(v);
             }
-            System.out.println("----------------------");
         }
         System.out.println("=========================");
         for(Position d : Position.values()){
